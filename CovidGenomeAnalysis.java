@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * This program shows nucleotide pair for of each nucleotides in the DNA
  * sequence and also counting the number of Adenine in the inserted sequence.
  * Adenine & Thymine are pair together, Cytosine & Guanine are pair together.
@@ -11,7 +10,6 @@ import java.util.Scanner;
  * This calss shows nucleotide pair for
  * each nucleotides in DNA sequence and count the number of Adenine.
  * Adenine(A), Thymine(T), Cytosine(C), Guanine(G)
- * @author Saman Zarei
  */
 public class CovidGenomeAnalysis{
 
